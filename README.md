@@ -6,8 +6,6 @@ passions: 'web developement' </br>
 currenty learning 🌱 : Python 💻 </br>
 }
 
-About me 👀:
-
 You can find me 🌍 :
 
 
