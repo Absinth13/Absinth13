@@ -3,7 +3,7 @@
 const eli = { </br>
 code : HTML, CSS, Javascript, PHP </br>
 passions: 'web developement' </br>
-currenty learning 🌱 : Python 💻 </br>
+currenty learning  : Python 🌱 </br>
 }
 
 You can find me 🌍 :
