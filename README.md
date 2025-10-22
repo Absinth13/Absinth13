@@ -1,4 +1,6 @@
 👋 Hi, I’m <strong> Elian </strong> 👻✨
+I am a graphic designer by profession, but I am developing a passion for programming.
+After working solely on the visual aspect of web pages, I began to take an interest in what lies behind them, and here I am. 
 
 const eli = { </br>
 code : HTML, CSS, Javascript, PHP </br>
