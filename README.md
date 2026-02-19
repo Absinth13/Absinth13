@@ -5,7 +5,7 @@ After working solely on the visual aspect of web pages, I began to take an inter
 const eli = { </br>
 code : HTML, CSS, Javascript, PHP </br>
 passions: 'web developement' </br>
-currenty learning  : Python 🌱 </br>
+ 🌱 </br>
 }
 
 
